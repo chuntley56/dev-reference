@@ -3,4 +3,4 @@ Notes and code snippets
 
 
 # CSS
-[CSS Notes](../css/README.md)
+[CSS Notes](tree/master/css/)
