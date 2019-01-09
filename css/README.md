@@ -2,11 +2,9 @@
 
 ### Combinators
 #### General combinator
-  ```
-  Code: `space`
+  Code: `space`<br />
   Example: `.parent .child`
   Notes: `works for any child regardless of how deep`
-  ```
 
 #### Child combinator
 
