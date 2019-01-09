@@ -1,16 +1,15 @@
 # CSS Notes
 
 ### Combinators
-General combinator `space`
+General combinator
+Code: `space`
+Example: `.parent .child`
+Notes: works for any child regardless of how deep
 
-`.parent .child`
 
-works for any child regardless of how deep
-
-Child combinator `>`
-
-`.parent > .child`
-
-only works on direct descendants
+Child combinator
+Code: `>`
+Example: `.parent > .child`
+Notes: only works on direct descendants
 
 Sibling combinator
