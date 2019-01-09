@@ -2,12 +2,9 @@
 
 ### Combinators
 #### General combinator
-
-  Code: `space`
-
-  Example: `.parent .child`
-
-  Notes: works for any child regardless of how deep
+  *Code*: `space`<br />
+  *Example*: `.parent .child`<br />
+  *Notes*: works for any child regardless of how deep
 
 #### Child combinator
 
