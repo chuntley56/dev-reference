@@ -1,6 +1,4 @@
-# dev-reference
-Notes and code snippets
+# Dev Reference
+Notes, tricks and code snippets
 
-
-# CSS
 [CSS Notes](/css)
