@@ -3,4 +3,4 @@ Notes and code snippets
 
 
 # CSS
-[CSS Notes](../blob/master/css)
+[CSS Notes](/css)
