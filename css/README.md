@@ -3,9 +3,9 @@
 ### Combinators
 #### General combinator
   ```
-  *Code*: space
-  *Example*: .parent .child
-  *Notes*: works for any child regardless of how deep
+  Code: space
+  Example: .parent .child
+  Notes: works for any child regardless of how deep
   ```
 
 #### Child combinator
